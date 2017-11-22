@@ -3,28 +3,35 @@
     "name": "Java / Groovy",
     "caption": "A feature-rich Gradle-based skeleton for Java and/or Groovy projects.",
     "entries": {
-      "0.1.0": {
-        "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v0.1.1/java-groovy-0.1.1.zip",
-        "size": 77758,
-        "sha": "eb9eb89ca11ce7d8686636f865730daaa6293f55667cb5bdea54fd07c434ec96",
+      "0.2.0": {
+        "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v0.2.0/java-grovy-0.2.0.zip",
+        "size": 78369,
+        "sha": "a371a7b08be6161d489ef4c664f9c594892141b0857e5f8cc73acb16ed552252",
         "ratingCount": 0,
         "usageCount": 0,
         "ratingSum": 0,
         "id": "org.boothub.java-groovy",
-        "version": "0.1.1",
+        "version": "0.2.0",
         "name": "Java / Groovy",
         "caption": "A feature-rich Gradle-based skeleton for Java and/or Groovy projects.",
-        "minimumRequiredBootHub": "0.1.0",
-        "homepage": "http://www.boothub.org/skeletons/java-groovy",
-        "authors": [
-          "Serban Iordache"
-        ],
-        "tags": [
-          "java",
-          "groovy",
-          "gradle"
-        ],
-        "description": "A feature-rich skeleton for Java and/or Groovy projects with Gradle build file.\n\nFeatures:\n - single or multi-module project\n - versioning\n - license header check\n - support for Eclipse and IntelliJ Idea\n - testing with JUnit and/or Spock\n - automatic build and test via [Travis CI](https://travis-ci.com/)\n - support for [AsciiDoc](http://asciidoc.org/) documentation\n - automatic publishing of versioned AsciiDoc and javadoc documentation to [GitHub Project Pages](https://help.github.com/articles/user-organization-and-project-pages/#project-pages)\n - static code analysis with [findbugs](http://findbugs.sourceforge.net/)\n - jar signing\n - jar publishing to JCenter (and from there to Maven Central)\n"
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      },
+      "0.1.0": {
+        "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v0.1.0/java-groovy-0.1.0.zip",
+        "size": 77723,
+        "sha": "4dcfd580c1e3044194d39b3747bcb401184ce8ec38e6c1167ec877908b20b1dd",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.java-groovy",
+        "version": "0.1.0",
+        "name": "Java / Groovy",
+        "caption": "A feature-rich Gradle-based skeleton for Java and/or Groovy projects.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
       }
     }
   },
@@ -32,6 +39,21 @@
     "name": "Simple Groovy",
     "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
     "entries": {
+      "0.2.0": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v0.2.0/simple-groovy-0.2.0.zip",
+        "size": 57332,
+        "sha": "5a8b386aca1c81c8dac855aabdb25ec824c5f1e1597fdba475465ea2e1a2adda",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.simple-groovy",
+        "version": "0.2.0",
+        "name": "Simple Groovy",
+        "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      },
       "0.1.0": {
         "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v0.1.0/simple-groovy-0.1.0.zip",
         "size": 56806,
@@ -43,16 +65,9 @@
         "version": "0.1.0",
         "name": "Simple Groovy",
         "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
-        "minimumRequiredBootHub": "0.1.0",
-        "homepage": "http://www.boothub.org/skeletons/simple-groovy",
-        "authors": [
-          "Serban Iordache"
-        ],
-        "tags": [
-          "groovy",
-          "gradle"
-        ],
-        "description": "A simple Groovy project with a main class and a Spock test class.\n\nProvides a Gradle build file that adds support for versioning and for checking license headers.\n"
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
       }
     }
   },
@@ -60,6 +75,21 @@
     "name": "Simple Java",
     "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
     "entries": {
+      "0.2.0": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v0.2.0/simple-java-0.2.0.zip",
+        "size": 57213,
+        "sha": "59b6a4fa5dc36613d38341f59d3ef2cfb8172b3579f4875487e99693ed0bbfab",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.simple-java",
+        "version": "0.2.0",
+        "name": "Simple Java",
+        "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      },
       "0.1.0": {
         "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v0.1.0/simple-java-0.1.0.zip",
         "size": 56690,
@@ -71,16 +101,9 @@
         "version": "0.1.0",
         "name": "Simple Java",
         "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
-        "minimumRequiredBootHub": "0.1.0",
-        "homepage": "http://www.boothub.org/skeletons/simple-java",
-        "authors": [
-          "Serban Iordache"
-        ],
-        "tags": [
-          "java",
-          "gradle"
-        ],
-        "description": "A simple Java project with a main class and a JUnit test class.\n\nProvides a Gradle build file that adds support for versioning and for checking license headers.\n"
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
       }
     }
   }
