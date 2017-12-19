@@ -3,6 +3,21 @@
     "name": "Java / Groovy",
     "caption": "A feature-rich Gradle-based skeleton for Java and/or Groovy projects.",
     "entries": {
+      "0.3.3": {
+        "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v0.3.3/java-groovy-0.3.3.zip",
+        "size": 80559,
+        "sha": "7783f745eebec52c5d2b903eaa66784c682005204821d14802450be67e3e22e0",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.java-groovy",
+        "version": "0.3.3",
+        "name": "Java / Groovy",
+        "caption": "A feature-rich Gradle-based skeleton for Java and/or Groovy projects.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      },
       "0.3.2": {
         "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v0.3.2/java-groovy-0.3.2.zip",
         "size": 80504,
