@@ -195,6 +195,21 @@
     "name": "Simple Java",
     "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
     "entries": {
+      "0.3.1": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v0.3.1/simple-java-0.3.1.zip",
+        "size": 57218,
+        "sha": "aad87001f9b63074eb5e03c76d9d2d56be39458ddd9d97d5d0c21581b76bf5de",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.simple-java",
+        "version": "0.3.1",
+        "name": "Simple Java",
+        "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      },
       "0.3.0": {
         "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v0.3.0/simple-java-0.3.0.zip",
         "size": 57213,
