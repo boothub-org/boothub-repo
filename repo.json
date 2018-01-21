@@ -144,6 +144,21 @@
     "name": "Simple Groovy",
     "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
     "entries": {
+      "0.3.2": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v0.3.2/simple-groovy-0.3.2.zip",
+        "size": 59098,
+        "sha": "a52505f096aae91e444e5ea712ae76b0bffdde19331eb42d15eb76f95343ed94",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.simple-groovy",
+        "version": "0.3.2",
+        "name": "Simple Groovy",
+        "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      },
       "0.3.1": {
         "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v0.3.1/simple-groovy-0.3.1.zip",
         "size": 57338,
