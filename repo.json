@@ -35,6 +35,27 @@
       }
     }
   },
+  "org.boothub.meta-template": {
+    "name": "Meta-Template",
+    "caption": "A template for creating BootHub templates.",
+    "entries": {
+      "0.1.0": {
+        "url": "https://github.com/boothub-org/boothub-meta-template/releases/download/v0.1.0/meta-template-0.1.0.zip",
+        "size": 122129,
+        "sha": "34e29cc4bb6f258f0d51a452162141afb2a95127250abe143e1f67198cda8682",
+        "ratingCount": 0,
+        "usageCount": 0,
+        "ratingSum": 0,
+        "id": "org.boothub.meta-template",
+        "version": "0.1.0",
+        "name": "Meta-Template",
+        "caption": "A template for creating BootHub templates.",
+        "minimumRequiredBootHub": "0.0.0",
+        "authors": [],
+        "tags": []
+      }
+    }
+  },
   "org.boothub.simple-groovy": {
     "name": "Simple Groovy",
     "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
