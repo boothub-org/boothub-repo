@@ -39,15 +39,15 @@
     "name": "Meta-Template",
     "caption": "A template for creating BootHub templates.",
     "entries": {
-      "0.1.1": {
-        "url": "https://github.com/boothub-org/boothub-meta-template/releases/download/v0.1.1/meta-template-0.1.1.zip",
-        "size": 124783,
-        "sha": "851eda96864f913e10d01c4d7f1a8027c8b209063399535b0caaa14454a45322",
+      "0.1.2": {
+        "url": "https://github.com/boothub-org/boothub-meta-template/releases/download/v0.1.2/meta-template-0.1.2.zip",
+        "size": 124792,
+        "sha": "e3b547ba0f490dd03ae0946429afe6b0521a150459f992e86207812c9a570e3d",
         "ratingCount": 0,
         "usageCount": 0,
         "ratingSum": 0,
         "id": "org.boothub.meta-template",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "name": "Meta-Template",
         "caption": "A template for creating BootHub templates.",
         "minimumRequiredBootHub": "0.0.0",
