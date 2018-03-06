@@ -132,15 +132,15 @@
     "name": "Simple Kotlin",
     "caption": "A Gradle-based Kotlin project with a main class and a test class.",
     "entries": {
-      "0.1.1": {
-        "url": "https://github.com/boothub-org/boothub-template-simple-kotlin/releases/download/v0.1.1/simple-kotlin-0.1.1.zip",
-        "size": 62537,
-        "sha": "9a5d3f439871988fe8e9fc8fefa6a12d7a414eeeb4b9050c0dbd0d41f8a63f34",
+      "0.2.0": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-kotlin/releases/download/v0.2.0/simple-kotlin-0.2.0.zip",
+        "size": 63855,
+        "sha": "d7f11f15f0df903b9c14d85e29108e451fcc2891bab613d458f15d1368783b1e",
         "ratingCount": 0,
         "usageCount": 0,
         "ratingSum": 0,
         "id": "org.boothub.simple-kotlin",
-        "version": "0.1.1",
+        "version": "0.2.0",
         "name": "Simple Kotlin",
         "caption": "A Gradle-based Kotlin project with a main class and a test class.",
         "minimumRequiredBootHub": "0.0.0",
