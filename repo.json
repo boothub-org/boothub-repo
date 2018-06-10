@@ -7,7 +7,6 @@
     "ratingSum": 0,
     "sortingWeight": 1,
     "authors": [
-      "Serban Iordache",
       "siordache"
     ],
     "tags": [
@@ -51,16 +50,6 @@
         "name": "Meta-Template",
         "caption": "A template for creating BootHub templates.",
         "minimumRequiredBootHub": "0.0.0"
-      },
-      "1.0.0": {
-        "url": "https://github.com/boothub-org/boothub-meta-template/releases/download/v1.0.0/meta-template-1.0.0.zip",
-        "size": 124826,
-        "sha": "754fc10a70237f2997ddb7a2c7dd3be0e702d9cb39826bbe63ae5a99c4b7a69c",
-        "id": "org.boothub.meta-template",
-        "version": "1.0.0",
-        "name": "Meta-Template",
-        "caption": "A template for creating BootHub templates.",
-        "minimumRequiredBootHub": "0.0.0"
       }
     }
   },
@@ -72,7 +61,6 @@
     "ratingSum": 0,
     "sortingWeight": 1,
     "authors": [
-      "Serban Iordache",
       "siordache"
     ],
     "tags": [
@@ -100,7 +88,6 @@
     "ratingSum": 0,
     "sortingWeight": 1,
     "authors": [
-      "Serban Iordache",
       "siordache"
     ],
     "tags": [
@@ -128,7 +115,6 @@
     "ratingSum": 0,
     "sortingWeight": 1,
     "authors": [
-      "Serban Iordache",
       "siordache"
     ],
     "tags": [
