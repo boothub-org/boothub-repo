@@ -68,12 +68,12 @@
       "gradle"
     ],
     "entries": {
-      "1.0.0": {
-        "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v1.0.0/simple-groovy-1.0.0.zip",
-        "size": 59115,
-        "sha": "8371921704c4103f60d4cc26efe83ce4e7a129060c2297888fcff45f5cc1ca61",
+      "1.0.1": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v1.0.1/simple-groovy-1.0.1.zip",
+        "size": 59117,
+        "sha": "ba1249601da917869efb5b9aec7ee9616043059719deca08493f324ed41f11f3",
         "id": "org.boothub.simple-groovy",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Simple Groovy",
         "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
         "minimumRequiredBootHub": "0.0.0"
@@ -95,6 +95,16 @@
       "gradle"
     ],
     "entries": {
+      "1.0.1": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v1.0.1/simple-java-1.0.1.zip",
+        "size": 58986,
+        "sha": "943368371eb3a303ec2eaa027072156761755a9ffe0cc8f6616214c7c271491e",
+        "id": "org.boothub.simple-java",
+        "version": "1.0.1",
+        "name": "Simple Java",
+        "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
+        "minimumRequiredBootHub": "0.0.0"
+      },
       "1.0.0": {
         "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v1.0.0/simple-java-1.0.0.zip",
         "size": 58984,
