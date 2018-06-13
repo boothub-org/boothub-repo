@@ -15,12 +15,12 @@
       "gradle"
     ],
     "entries": {
-      "1.0.1": {
-        "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v1.0.1/java-groovy-1.0.1.zip",
-        "size": 81293,
-        "sha": "58102b7db3f236f1ccbe8ef7e89628adb8666559e4333cd7a362110831041465",
+      "1.0.2": {
+        "url": "https://github.com/boothub-org/boothub-template-java-groovy/releases/download/v1.0.2/java-groovy-1.0.2.zip",
+        "size": 81297,
+        "sha": "db99195b1dcdf81a1e1ee5338ad18d7d36852d71db030d1c62d3cb4bc88add02",
         "id": "org.boothub.java-groovy",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Java / Groovy",
         "caption": "A feature-rich Gradle-based skeleton for Java and/or Groovy projects.",
         "minimumRequiredBootHub": "0.0.0"
