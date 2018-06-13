@@ -95,12 +95,12 @@
       "gradle"
     ],
     "entries": {
-      "1.0.1": {
-        "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v1.0.1/simple-java-1.0.1.zip",
-        "size": 58986,
-        "sha": "943368371eb3a303ec2eaa027072156761755a9ffe0cc8f6616214c7c271491e",
+      "1.0.2": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-java/releases/download/v1.0.2/simple-java-1.0.2.zip",
+        "size": 58987,
+        "sha": "3be9260ad99728dff083ec876c01cc7e7f906d8686aeeba4424dadc8501f50a5",
         "id": "org.boothub.simple-java",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Simple Java",
         "caption": "A Gradle-based Java project with a main class and a JUnit test class.",
         "minimumRequiredBootHub": "0.0.0"
