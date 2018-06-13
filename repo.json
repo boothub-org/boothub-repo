@@ -68,12 +68,12 @@
       "gradle"
     ],
     "entries": {
-      "1.0.1": {
-        "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v1.0.1/simple-groovy-1.0.1.zip",
-        "size": 59117,
-        "sha": "ba1249601da917869efb5b9aec7ee9616043059719deca08493f324ed41f11f3",
+      "1.0.2": {
+        "url": "https://github.com/boothub-org/boothub-template-simple-groovy/releases/download/v1.0.2/simple-groovy-1.0.2.zip",
+        "size": 59119,
+        "sha": "2be4c95a173ea02d67f1a59cda1b5f965898763f31290fab499e4ffa0646053a",
         "id": "org.boothub.simple-groovy",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Simple Groovy",
         "caption": "A Gradle-based Groovy project with a main class and a Spock test class.",
         "minimumRequiredBootHub": "0.0.0"
