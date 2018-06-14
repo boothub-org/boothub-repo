@@ -152,8 +152,8 @@
     "entries": {
       "1.0.0": {
         "url": "https://github.com/boothub-org/boothub-template-gradle-plugin/releases/download/v1.0.0/gradle-plugin-1.0.0.zip",
-        "size": 66180,
-        "sha": "300d07aaaf3ccfed1010410006237756f6dbe17cbb4991a8398649f619aba03e",
+        "size": 66297,
+        "sha": "326286a96fb501aba7295e4b4b4944e01e1ed4d4f03e0967bd7d217d3d939d88",
         "id": "org.boothub.gradle-plugin",
         "version": "1.0.0",
         "name": "Gradle-Plugin template",
