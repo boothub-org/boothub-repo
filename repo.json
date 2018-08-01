@@ -185,8 +185,8 @@
     "entries": {
       "1.0.0": {
         "url": "https://github.com/boothub-org/boothub-template-slide-deck/releases/download/v1.0.0/slide-deck-1.0.0.zip",
-        "size": 2164198,
-        "sha": "c87bb9bfcbbbbc8835f297d9cfdd2b22ed0efc01f45c4dc1542ea0a68d501292",
+        "size": 2164199,
+        "sha": "fed8447bf504ca2b031c36f775f4172f27bbfcfb0fe76e72146e2f8260b322a7",
         "id": "org.boothub.slide-deck",
         "version": "1.0.0",
         "name": "Slide Deck Template",
