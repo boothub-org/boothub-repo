@@ -161,5 +161,38 @@
         "minimumRequiredBootHub": "0.0.0"
       }
     }
+  },
+  "org.boothub.slide-deck": {
+    "name": "Slide Deck Template",
+    "caption": "Template for technical presentations that include code snippets",
+    "usageCount": 0,
+    "ratingCount": 0,
+    "ratingSum": 0,
+    "sortingWeight": 1,
+    "authors": [
+      "siordache"
+    ],
+    "tags": [
+      "deck.js",
+      "slides",
+      "slide deck",
+      "asciidoctor",
+      "asciidoc",
+      "java",
+      "groovy",
+      "kotlin"
+    ],
+    "entries": {
+      "1.0.0": {
+        "url": "https://github.com/boothub-org/boothub-template-slide-deck/releases/download/v1.0.0/slide-deck-1.0.0.zip",
+        "size": 2164198,
+        "sha": "c87bb9bfcbbbbc8835f297d9cfdd2b22ed0efc01f45c4dc1542ea0a68d501292",
+        "id": "org.boothub.slide-deck",
+        "version": "1.0.0",
+        "name": "Slide Deck Template",
+        "caption": "Template for technical presentations that include code snippets",
+        "minimumRequiredBootHub": "0.0.0"
+      }
+    }
   }
 }
